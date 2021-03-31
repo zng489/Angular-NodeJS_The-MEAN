@@ -1,4 +1,5 @@
-- sds
+
+- import { AppComponent } from './app.component';
 - sds
 - sda
 - asda
